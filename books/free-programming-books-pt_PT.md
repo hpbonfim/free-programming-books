@@ -1,5 +1,6 @@
 ### Indice
 
+* [Vim](#vim)
 * [C/C++](#cc)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -7,7 +8,6 @@
 * [Prolog](#prolog)
 * [Python](#python)
 * [Matemática Computacional](#matemática-computacional)
-* [Vim](#vim)
 
 
 ### C/C++
