@@ -1,12 +1,12 @@
 ### Indice
 
 * [C/C++](#cc)
-* [Vim](#vim)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [LaTeX](#latex)
 * [Prolog](#prolog)
 * [Python](#python)
+* [Vim](#vim)
 
 
 ### C/C++
