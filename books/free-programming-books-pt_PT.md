@@ -1,7 +1,7 @@
 ### Indice
 
-* [Vim](#vim)
 * [C/C++](#cc)
+* [Vim](#vim)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [LaTeX](#latex)
