@@ -7,7 +7,6 @@
 * [LaTeX](#latex)
 * [Prolog](#prolog)
 * [Python](#python)
-* [Matemática Computacional](#matemática-computacional)
 
 
 ### C/C++
@@ -40,12 +39,6 @@
 ### Python
 
 * [Python Para Todos: Explorando Dados com Python 3](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub)
-
-
-### Matemática Computacional
-
-* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
-* [Matemática Fundacional para Computação](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas
 
 
 ### Vim
