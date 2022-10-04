@@ -4,9 +4,9 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [LaTeX](#latex)
-* [Matemática Computacional](#matemática-computacional)
 * [Prolog](#prolog)
 * [Python](#python)
+* [Vim](#vim)
 
 
 ### C/C++
@@ -31,12 +31,6 @@
 * [Uma não tão pequena introdução ao LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/portuguese)
 
 
-### Matemática Computacional
-
-* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
-* [Matemática Fundacional para Computação](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas
-
-
 ### Prolog
 
 * [Lógica Computacional (com Prolog)](http://www4.di.uminho.pt/~mjf/pub/LC-Prolog.pdf) - Maria João Frade (PDF)
@@ -45,3 +39,10 @@
 ### Python
 
 * [Python Para Todos: Explorando Dados com Python 3](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub)
+
+
+### Vim
+
+* [O Editor de Texto: Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva.
+* [Vim para Noobs](https://leanpub.com/vimparanoobs/read) - William Oliveira Souza (HTML, PDF, EPUB)
+* [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
