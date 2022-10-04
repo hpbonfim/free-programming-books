@@ -7,7 +7,6 @@
 * [Matemática Computacional](#matemática-computacional)
 * [Prolog](#prolog)
 * [Python](#python)
-* [Vim](#vim)
 
 
 ### C/C++
@@ -46,10 +45,3 @@
 ### Python
 
 * [Python Para Todos: Explorando Dados com Python 3](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub)
-
-
-### Vim
-
-* [O Editor de Texto: Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva.
-* [Vim para Noobs](https://leanpub.com/vimparanoobs/read) - William Oliveira Souza (HTML, PDF, EPUB)
-* [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
